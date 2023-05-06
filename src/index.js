@@ -6,7 +6,7 @@ import { CssBaseline } from "@mui/material";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/travel-agency">
     <CssBaseline />
     <App />
   </BrowserRouter>
