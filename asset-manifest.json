@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/travel-agency/static/js/main.76170ec0.js",
-    "index.html": "/travel-agency/index.html",
-    "main.76170ec0.js.map": "/travel-agency/static/js/main.76170ec0.js.map"
+    "main.js": "/static/js/main.c74f16aa.js",
+    "index.html": "/index.html",
+    "main.c74f16aa.js.map": "/static/js/main.c74f16aa.js.map"
   },
   "entrypoints": [
-    "static/js/main.76170ec0.js"
+    "static/js/main.c74f16aa.js"
   ]
 }
