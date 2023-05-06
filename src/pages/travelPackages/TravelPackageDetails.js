@@ -27,12 +27,10 @@ import {
   Typography,
   DialogActions,
   DialogContent,
-  DialogContentText,
   DialogTitle,
   Card,
   CardContent,
   Grid,
-  TextField,
 } from "@mui/material";
 import { auth, db } from "../../firebase/config";
 import useIsAdmin from "../../utils/useIsAdmin";
